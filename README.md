@@ -1,16 +1,12 @@
-## Hi there 👋
+```
+Hello, welcome to my page! Feel free to take a look around :)
 
-<!--
-**ryanq04/ryanq04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on: 
+- Power Electronics 
+- Control Systems
+- Microwave Electronics
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/ryanq04/automated_pcb_tester"><img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=ryanq04&repo=automated_pcb_tester&theme=transparent" alt="Automated PCB Tester"></a>&nbsp;&nbsp;<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanq04&layout=compact&theme=transparent" alt="Top Languages">
+</p>
